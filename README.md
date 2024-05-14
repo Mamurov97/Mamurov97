@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is G'olibjon</h2>
+<h2 align="left">Hi 👋!  My name is G'olibjon</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
